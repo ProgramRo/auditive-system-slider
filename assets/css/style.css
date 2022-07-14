@@ -43,7 +43,7 @@ img {
     -webkit-appearance: none;
     height: 40px;
     width: 40px;
-    background: url("/assets/img/slider-icon.png"), rgba(255, 255, 255, 0.3);
+    background: url("https://github.com/ProgramRo/auditive-system-slider/blob/main/assets/img/slider-icon.png"), rgba(255, 255, 255, 0.3);
     border: 3px solid #ffffff;
     border-radius: 50%;
     background-size: contain;
