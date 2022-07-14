@@ -1,4 +1,4 @@
-# Mini Proyecto "Rotación Fonoaudiología y Tecnología"
+# Mini Proyecto "Auditive System Slider"
 
 ## Descripción
 Continuamos con el aprendizaje y esta vez acerca de **HTML**, **CSS** y **Javascript**, la trilogía de lenguajes potentes con los que se pueden realizar infinidad de cosas.
