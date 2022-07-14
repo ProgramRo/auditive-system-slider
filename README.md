@@ -9,4 +9,4 @@ Agradecido de todo el material que **Coding Artist** sube a sus plataformas y el
 ## Preview
 ![auditive-system-slider](https://user-images.githubusercontent.com/98556305/178860799-25f52c8d-bb22-456f-b9bb-21dc40f790bd.gif)
 
-Pueden ver el proyecto en vivo en este [enlace](https://programro.github.io/fonoaudiologia-rotation/).
+Pueden ver el proyecto en vivo en este [enlace](https://programro.github.io/auditive-system-slider/).
