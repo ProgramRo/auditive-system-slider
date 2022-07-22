@@ -8,13 +8,14 @@
 
 body {
     height: 100vh;
-    display: grid;
-    place-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
-    height: 50vmin;
-    width: 100vmin;
+    height: 35vmax;
+    width: 70vmax;
     position: relative;
     overflow: hidden;
 }
